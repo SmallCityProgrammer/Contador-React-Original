@@ -1,4 +1,4 @@
-# Documentação do Projeto de Contador em React
+# Projeto de Contador em React
 
 ## Introdução
 Este é um guia de documentação simples para o projeto de contador em React com 2 componentes. O projeto consiste em uma aplicação React que exibe um contador e permite que o usuário o incremente ou decremente.
