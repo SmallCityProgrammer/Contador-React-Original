@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,700;1,300;1,400&display=swap');
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: pink;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+.conta {
+  font-size: 2rem;
+}
+
+.App {
+  text-align: center;
+}
+
+.btn {
+  font-size: 2rem;
+  border: solid red 1px;
+  padding: 3rem;
+  border-radius: 100%;
+}
